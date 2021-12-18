@@ -1,1 +1,0 @@
-# ajitjha.github.io
