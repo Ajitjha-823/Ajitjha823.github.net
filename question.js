@@ -119,7 +119,7 @@
 
  //   answer: "Rameswaram रामेश्वरम",
 
-    options: [
+  //  options: [
 //
    //   "Vizag वैज़ाग",
 
@@ -369,7 +369,7 @@
 
  //     "Mauritius मॉरीशस",
 //
-      "Maldives मालदीव"
+   //   "Maldives मालदीव"
 //
  //   ]
 //
@@ -385,7 +385,7 @@
 //
  //   options: [
 //
-      "Ladakh लद्दाख",
+   //   "Ladakh लद्दाख",
 //
    //   "Karnataka कर्नाटक",
 
