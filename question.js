@@ -111,291 +111,291 @@
 
   },
 
-	{
+//	{
 
-    numb: 6,
+  //  numb: 6,
 
-    question: "6.In which place will India's first vertical lift railway bridge be built? 6.भारत का पहला ऊर्ध्वाधर लिफ्ट रेलवे पुल किस स्थान पर बनाया जाएगा?",
+ //   question: "6.In which place will India's first vertical lift railway bridge be built? 6.भारत का पहला ऊर्ध्वाधर लिफ्ट रेलवे पुल किस स्थान पर बनाया जाएगा?",
 
-    answer: "Rameswaram रामेश्वरम",
-
-    options: [
-
-      "Vizag वैज़ाग",
-
-      "Rameswaram रामेश्वरम",
-
-      "Cuttack कटक",
-
-      "Kochi कोच्चि"
-
-    ]
-
-  },
-
-  {
-
-    numb: 7,
-
-    question: "7.Which of the following commercial banks topped EASE 2.0 Banking Reforms Index (March 2018-2020)? 7.निम्नलिखित में से किस वाणिज्यिक बैंक ने EASE 2.0 बैंकिंग सुधार सूचकांक (मार्च 2018-2020) में सबसे ऊपर है?",
-
-    answer: "Bank of Baroda बैंक ऑफ बड़ौदा",
+ //   answer: "Rameswaram रामेश्वरम",
 
     options: [
+//
+   //   "Vizag वैज़ाग",
 
-      "Punjab National Bank पंजाब नेशनल बैंक",
+  //    "Rameswaram रामेश्वरम",
 
-      "State Bank of India भारतीय स्टेट बैंक",
+  //    "Cuttack कटक",
 
-      "Bank of baroda बैंक ऑफ बड़ौदा",
+  //    "Kochi कोच्चि"
 
-      "Canara Bank केनरा बैंक"
+ //   ]
 
-    ]
+//  },
 
-  },
+ // {
 
-    {
+ //   numb: 7,
 
-    numb: 8,
+ //   question: "7.Which of the following commercial banks topped EASE 2.0 Banking Reforms Index (March 2018-2020)? 7.निम्नलिखित में से किस वाणिज्यिक बैंक ने EASE 2.0 बैंकिंग सुधार सूचकांक (मार्च 2018-2020) में सबसे ऊपर है?",
 
-    question: "8.Which one of the following countries has hosted the Army Exercise TSENTR, 2019? 8.निम्नलिखित में से किस देश ने आर्मी एक्सरसाइज TSENTR, 2019 की मेजबानी की है?",
+ //   answer: "Bank of Baroda बैंक ऑफ बड़ौदा",
 
-    answer: "Russia रूस",
+ //   options: [
 
-    options: [
+  //    "Punjab National Bank पंजाब नेशनल बैंक",
 
-      "Russia रूस",
+  //    "State Bank of India भारतीय स्टेट बैंक",
 
-      "China चीन",
+  //    "Bank of baroda बैंक ऑफ बड़ौदा",
 
-      "Kazakhstan कजाखस्तान",
+  //    "Canara Bank केनरा बैंक"
 
-      "Kyrgyzstan किर्गिज़स्तान"
+  //  ]
 
-    ]
+ // },
 
-  },
+  //  {
 
-    {
+ //   numb: 8,
 
-    numb: 9,
+  //  question: "8.Which one of the following countries has hosted the Army Exercise TSENTR, 2019? 8.निम्नलिखित में से किस देश ने आर्मी एक्सरसाइज TSENTR, 2019 की मेजबानी की है?",
 
-    question: "9.Naseem-Al-Bahr is a bilateral naval exercise between India and  9.नसीम-अल-बह्र भारत और के बीच एक द्विपक्षीय नौसैनिक अभ्यास है",
+  //  answer: "Russia रूस",
 
-    answer: "Oman ओमान",
+ //   options: [
 
-    options: [
+  //    "Russia रूस",
 
-      "United Arab Emirates संयुक्त अरब अमीरात",
+  //    "China चीन",
 
-      "Iran ईरान",
+ //     "Kazakhstan कजाखस्तान",
 
-      "Saudi Arabia सऊदी अरब",
+ //     "Kyrgyzstan किर्गिज़स्तान"
 
-      "Oman ओमान"
+ //   ]
 
-    ]
+ // },
 
-  },
+ //   {
 
-     {
+  //  numb: 9,
 
-    numb: 10,
+  //  question: "9.Naseem-Al-Bahr is a bilateral naval exercise between India and  9.नसीम-अल-बह्र भारत और के बीच एक द्विपक्षीय नौसैनिक अभ्यास है",
 
-    question: "10.Till when does the government want to eliminate the Tuberculosis? 10.कब तक सरकार तपेदिक को खत्म करना चाहती है?",
+ //   answer: "Oman ओमान",
 
-    answer: "2025 २०२५",
+  //  options: [
 
-    options: [
+  //    "United Arab Emirates संयुक्त अरब अमीरात",
 
-      "2030 २०३०",
+  //    "Iran ईरान",
 
-      "2025 २०२५",
+  //    "Saudi Arabia सऊदी अरब",
 
-      "2027 २०२७",
+ //     "Oman ओमान"
 
-      "2022 २०२२"
+ //   ]
 
-    ]
+//  },
 
-  },
+ //    {
 
-       {
+  //  numb: 10,
 
-    numb: 11,
+  //  question: "10.Till when does the government want to eliminate the Tuberculosis? 10.कब तक सरकार तपेदिक को खत्म करना चाहती है?",
 
-    question: "11.Which city emerged on top of the IMD Smart City Index, 2020? 11.आईएमडी स्मार्ट सिटी इंडेक्स, 2020 के शीर्ष पर कौन सा शहर उभरा?",
+ //   answer: "2025 २०२५",
 
-    answer: "Singapore सिंगापुर",
+ //   options: [
 
-    options: [
+  //    "2030 २०३०",
 
-      "Dubai दुबई",
+  //    "2025 २०२५",
 
-      "Singapore सिंगापुर",
+   //   "2027 २०२७",
 
-      "Hongkong हॉगकॉग",
+  //    "2022 २०२२"
 
-      "Mumbai मुंबई"
+  //  ]
 
-    ]
+ // },
 
-  },
+  //     {
 
-       {
+//    numb: 11,
 
-    numb: 12,
+ //   question: "11.Which city emerged on top of the IMD Smart City Index, 2020? 11.आईएमडी स्मार्ट सिटी इंडेक्स, 2020 के शीर्ष पर कौन सा शहर उभरा?",
 
-    question: "12.Which country emerged on top of the Global Innovation Index, 2020? 12.ग्लोबल इनोवेशन इंडेक्स, 2020 के शीर्ष पर कौन सा देश उभरा?",
+  //  answer: "Singapore सिंगापुर",
 
-    answer: "Switzerland स्विट्ज़रलैंड",
+ //   options: [
 
-    options: [
+  //    "Dubai दुबई",
 
-      "Finland फिनलैंड",
+  //    "Singapore सिंगापुर",
 
-      "Sweden स्वीडन",
+  //    "Hongkong हॉगकॉग",
 
-      "Switzerland स्विट्ज़रलैंड",
+  //    "Mumbai मुंबई"
 
-      "USA अमेरीका"
+ //   ]
 
-    ]
+//  },
 
-  },
+   //    {
 
-       {
+ //   numb: 12,
 
-    numb: 13,
+ //   question: "12.Which country emerged on top of the Global Innovation Index, 2020? 12.ग्लोबल इनोवेशन इंडेक्स, 2020 के शीर्ष पर कौन सा देश उभरा?",
 
-    question: "13.India's longest river ropeway for passengers was inaugurated in 13.यात्रियों के लिए भारत की सबसे लंबी नदी रोपवे का उद्घाटन किया गया",
+ //   answer: "Switzerland स्विट्ज़रलैंड",
 
-    answer: "Guwahati गुवाहाटी",
+ //   options: [
 
-    options: [
+ //     "Finland फिनलैंड",
 
-      "Shimla शिमला",
+//      "Sweden स्वीडन",
 
-      "Manali मनाली",
+ //     "Switzerland स्विट्ज़रलैंड",
 
-      "Rishikesh ऋषिकेश",
+   //   "USA अमेरीका"
 
-      "Guwahati गुवाहाटी"
+ //   ]
 
-    ]
+ // },
 
-  },
+  //     {
 
-       {
+  //  numb: 13,
 
-    numb: 14,
+ //   question: "13.India's longest river ropeway for passengers was inaugurated in 13.यात्रियों के लिए भारत की सबसे लंबी नदी रोपवे का उद्घाटन किया गया",
 
-    question: "14.The first floating solar power plant in Uttar Pradesh is built on which of the following dams? 14.उत्तर प्रदेश में पहला तैरता हुआ सौर ऊर्जा संयंत्र निम्नलिखित में से किस बाँध पर बनाया गया है?",
+ //   answer: "Guwahati गुवाहाटी",
 
-    answer: "Rihand Dam रिहंद बांध",
+ //   options: [
 
-    options: [
+  //    "Shimla शिमला",
 
-      "Rihand Dam रिहंद बांध",
+  //    "Manali मनाली",
 
-      "Matatila Dam माताटीला डैम",
+  //    "Rishikesh ऋषिकेश",
 
-      "Rajghat Dam राजघाट बांध",
+ //     "Guwahati गुवाहाटी"
 
-      "Dhanraul Dam धनरोल बांध"
+ //   ]
 
-    ]
+//  },
 
-  },
+  //     {
 
-       {
+ //   numb: 14,
 
-    numb: 15,
+ //   question: "14.The first floating solar power plant in Uttar Pradesh is built on which of the following dams? 14.उत्तर प्रदेश में पहला तैरता हुआ सौर ऊर्जा संयंत्र निम्नलिखित में से किस बाँध पर बनाया गया है?",
 
-    question: "15.Which part of the Constitution of India declares the ideal of Welfare State? 15.भारत के संविधान का कौन सा भाग वेलफेयर स्टेट के आदर्श की घोषणा करता है?",
+ //   answer: "Rihand Dam रिहंद बांध",
 
-    answer: "Directive Principles of State Policy राज्य नीति के निर्देशक सिद्धांत",
+ //   options: [
 
-    options: [
+   //   "Rihand Dam रिहंद बांध",
 
-      "Fundamental Rights मौलिक अधिकार",
+  //    "Matatila Dam माताटीला डैम",
 
-      "Directive Principles of State Policy राज्य नीति के निर्देशक सिद्धांत",
+   //   "Rajghat Dam राजघाट बांध",
 
-      "Preamble प्रस्तावना",
+   //   "Dhanraul Dam धनरोल बांध"
 
-      "Seventh Schedule सातवीं अनुसूची"
+ //   ]
 
-    ]
+//  },
 
-  },
+  //     {
 
-        {
+ //   numb: 15,
 
-    numb: 16,
+ //   question: "15.Which part of the Constitution of India declares the ideal of Welfare State? 15.भारत के संविधान का कौन सा भाग वेलफेयर स्टेट के आदर्श की घोषणा करता है?",
 
-    question: "16.Which of the following is India's first Kisan Rail? 16.निम्नलिखित में से कौन भारत की पहली किसान रेल है?",
+ //   answer: "Directive Principles of State Policy राज्य नीति के निर्देशक सिद्धांत",
 
-    answer: "Devlali-Danapur Kisan Rail देवलाली-दानापुर किसान रेल",
+ //   options: [
 
-    options: [
+  //    "Fundamental Rights मौलिक अधिकार",
 
-      "Anantpur-Adarsh Nagar Kisan Rail अनंतपुर-आदर्श नगर किसान रेल",
+  //    "Directive Principles of State Policy राज्य नीति के निर्देशक सिद्धांत",
 
-      "Yashwanatpur-Ajmer Kisan Rail यशवंतपुर-अजमेर किसान रेल",
+  //    "Preamble प्रस्तावना",
 
-      "Devlali-Danapur Kisan Rail देवलाली-दानापुर किसान रेल",
+  //    "Seventh Schedule सातवीं अनुसूची"
 
-      "Bhatainda-Bhopal Kisan Rail भटैनादा-भोपाल किसान रेल"
+  //  ]
 
-    ]
+//  },
 
-  },
+  //      {
 
-        {
+  //  numb: 16,
 
-    numb: 17,
+  //  question: "16.Which of the following is India's first Kisan Rail? 16.निम्नलिखित में से कौन भारत की पहली किसान रेल है?",
+//
+  //  answer: "Devlali-Danapur Kisan Rail देवलाली-दानापुर किसान रेल",
 
-    question: "17.Which nation declared a state of environmental emergency on August 7, 2020? 17.7 अगस्त, 2020 को किस राष्ट्र ने पर्यावरणीय आपातकाल की स्थिति घोषित की?",
+ //   options: [
 
-    answer: "Maldives मालदीव",
+   //   "Anantpur-Adarsh Nagar Kisan Rail अनंतपुर-आदर्श नगर किसान रेल",
 
-    options: [
+   //   "Yashwanatpur-Ajmer Kisan Rail यशवंतपुर-अजमेर किसान रेल",
 
-      "Malaysia मलेशिया",
+   //   "Devlali-Danapur Kisan Rail देवलाली-दानापुर किसान रेल",
 
-      "Indonesia इंडोनेशिया",
+ //     "Bhatainda-Bhopal Kisan Rail भटैनादा-भोपाल किसान रेल"
 
-      "Mauritius मॉरीशस",
+ //   ]
 
+//  },
+
+  //      {
+
+   // numb: 17,
+
+  //  question: "17.Which nation declared a state of environmental emergency on August 7, 2020? 17.7 अगस्त, 2020 को किस राष्ट्र ने पर्यावरणीय आपातकाल की स्थिति घोषित की?",
+
+ //   answer: "Maldives मालदीव",
+
+ //   options: [
+
+   //   "Malaysia मलेशिया",
+
+  //    "Indonesia इंडोनेशिया",
+
+ //     "Mauritius मॉरीशस",
+//
       "Maldives मालदीव"
+//
+ //   ]
+//
+//  },
 
-    ]
+  //      {
 
-  },
+  //  numb: 18,
 
-        {
+  //  question: "18.Which State/ UT will host the International Film Festival of India 2020? 18.कौन सा राज्य / केंद्र शासित प्रदेश भारत के अंतर्राष्ट्रीय फिल्म महोत्सव 2020 की मेजबानी करेगा?",
 
-    numb: 18,
-
-    question: "18.Which State/ UT will host the International Film Festival of India 2020? 18.कौन सा राज्य / केंद्र शासित प्रदेश भारत के अंतर्राष्ट्रीय फिल्म महोत्सव 2020 की मेजबानी करेगा?",
-
-    answer: "Goa गोवा",
-
-    options: [
-
+ //   answer: "Goa गोवा",
+//
+ //   options: [
+//
       "Ladakh लद्दाख",
+//
+   //   "Karnataka कर्नाटक",
 
-      "Karnataka कर्नाटक",
+    //  "Goa गोवा",
 
-      "Goa गोवा",
+   //   "Assam असम"
 
-      "Assam असम"
+   // ]
 
-    ]
-
-  },
+ // },
 
     // you can uncomment the below codes and make duplicate as more as you want to add question
 
